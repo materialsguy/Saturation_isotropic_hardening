@@ -1,6 +1,7 @@
 # Saturation of the isotropic hardening of a Chaboche model
 The code is included in an example in a Jupyter Notebook. 
-For more theoretical backgroud please check out the paper https://doi.org/10.1016/j.compositesb.2023.110715.
+For more theoretical background please check out the paper https://doi.org/10.1016/j.compositesb.2023.110715.
+
 If you use this code or find it useful please cite https://doi.org/10.1016/j.compositesb.2023.110715.
 ## Saturation Criterion
 
