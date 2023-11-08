@@ -1,7 +1,5 @@
 # Fatigue Life Calculation
-
-This README explains the criteria used to determine the saturation in this code.
-
+If you use this code or find it useful please cite https://doi.org/10.1016/j.compositesb.2023.110715.
 ## Saturation Criterion
 
 The saturation criterion in this code is defined by the following equation:
