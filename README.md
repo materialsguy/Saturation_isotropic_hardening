@@ -1,4 +1,5 @@
 # Fatigue Life Calculation
+The code is included in an example in a Jupyter Notebook. 
 If you use this code or find it useful please cite https://doi.org/10.1016/j.compositesb.2023.110715.
 ## Saturation Criterion
 
