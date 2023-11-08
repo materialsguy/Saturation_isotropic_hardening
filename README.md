@@ -1,4 +1,4 @@
-# Saturation of the isotropic hardening of a Chaboche model
+# Code to estimate the saturation of the isotropic hardening of a Chaboche model 
 The code is included in an example in a Jupyter Notebook. 
 For more theoretical background please check out the paper https://doi.org/10.1016/j.compositesb.2023.110715.
 
