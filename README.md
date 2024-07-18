@@ -15,7 +15,7 @@ Where:
 
 By performing this criterion iteratively, the saturation of a Chaboche model can be determined. This algorithm is useful for defining the saturation of strain-controlled samples. It tracks the saturation of the maximal stresses, thereby enabling the extraction of the saturated strain range.
 
-This code is citeable via Zenodo 
+This code is citable via Zenodo 
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.12771375.svg)](https://doi.org/10.5281/zenodo.12771375) 
 
